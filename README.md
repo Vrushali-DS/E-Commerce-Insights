@@ -44,3 +44,5 @@ DAX (Data Analysis Expressions)
 Data Modeling
 Data Visualization
 Power Query
+
+![image alt](https://raw.githubusercontent.com/Vrushali-DS/E-Commerce-Insights/refs/heads/main/Ecommerce_Insights%20%20dashboard%20img%20pbix.jpg)
